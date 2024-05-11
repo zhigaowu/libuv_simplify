@@ -1,2 +1,2 @@
 # libuv_simplify
-light wrapper of libevent api for simplicity
+light wrapper of libuv api for simplicity
